@@ -36,5 +36,6 @@ Select all the rows and a single column
 
 >>> df.iloc[:, 5]
 
-The above content is taken from the below link -
-https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
+The above content is taken from the below link - < br />
+https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c  < br />
+For more detailed information please refer to the above link
