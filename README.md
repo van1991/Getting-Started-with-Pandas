@@ -23,3 +23,18 @@ df.loc[['Dean', 'Cornelia'], ['age', 'state', 'score']] <br />
 
 select all rows and some columns <br />
 df.loc[:, ['food', 'color']] <br />
+
+### Getting started with .iloc
+
+The .iloc indexer is very similar to .loc but only uses integer locations to make its selections.
+
+Select two rows and two columns:
+
+>>> df.iloc[[2,3], [0, 4]]
+
+Select all the rows and a single column
+
+>>> df.iloc[:, 5]
+
+The above content is taken from the below link -
+https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
