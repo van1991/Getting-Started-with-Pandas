@@ -1,6 +1,6 @@
 # How to subset dataframes in Python
 
-##Focusing only on [], .loc, and .iloc
+## Focusing only on [], .loc, and .iloc
 
 df[ ] <br />
 df.loc[ ] <br />
